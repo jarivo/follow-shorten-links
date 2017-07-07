@@ -8,7 +8,7 @@ Small CLI utility written in Go to follow the redirects of shorten links
 |----|-------|-----------|
 |u|```Empty string```|Shorten URL to follow|
 |f|```false```|Show all redirects in output, otherwise only the last URL is printed|
-|r|```true```|Remove query strings from the URLS|
+|r|```true```|Remove query strings from every URL|
 
 
 #### IMPORTANT
